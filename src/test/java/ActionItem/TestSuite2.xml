@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression">
+    <test name="Google And Yahoo Scenarios" preserve-order="true">
+        <classes>
+            <class name="ActionItem.AI1_OPTIONS" />
+            <class name="ActionItem.AI2_MoneyMileStones_ExploreTips" />
+            <class name="ActionItem.AI3_MoneyMarket_Mortgage" />
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
+
